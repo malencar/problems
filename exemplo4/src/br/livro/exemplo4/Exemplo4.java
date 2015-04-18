@@ -25,6 +25,7 @@ public class Exemplo4 extends Activity{
 				//Atualiza o texto
 				textResultado.setText("Obrigado,"+nome);
 				System.out.println();
+				System.out.println();
 			}
 			
 		});
